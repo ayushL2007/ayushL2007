@@ -36,7 +36,7 @@
     </td>
     <td width="40%" valign="center">
       <div align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayushL2007&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayushL2007&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
         <br><br>
         <b>Core Competencies</b><br>
         <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
@@ -81,12 +81,12 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushL2007&theme=tokyo-night&hide_border=true" width="815px" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushL2007&theme=tokyo-night&hide_border=true&count_private=true" width="815px" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayushL2007&show_icons=true&theme=tokyonight&hide_border=true" width="400px" height="200px" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayushL2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400px" height="200px" />
       </td>
     </tr>
   </table>
