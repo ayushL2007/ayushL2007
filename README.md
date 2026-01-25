@@ -96,6 +96,6 @@
 
 ### 📫 Connect with me
 <div align="center">
-  <a href="https://in.linkedin.com/in/ayush-lahiri-510786384" margin="20px"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://in.linkedin.com/in/ayush-lahiri" margin="20px"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ayushlahiri2007@gmail.com" margin="20px"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
