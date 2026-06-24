@@ -20,7 +20,6 @@
 <a href="https://leetcode.com/u/a_lah/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ayushL2007&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
