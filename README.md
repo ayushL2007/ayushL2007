@@ -17,6 +17,9 @@
 <a href="https://github.com/ayushL2007">
   <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/u/a_lah/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 <img src="https://komarev.com/ghpvc/?username=ayushL2007&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
@@ -25,7 +28,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 <table width="100%">
 <tr>
@@ -33,16 +36,16 @@
 
 I'm a **Computer Science & Engineering** student at **IIIT Kalyani**, working at the intersection of ML research, systems programming, and product engineering. I thrive at the boundary of high-level model design and low-level hardware efficiency.
 
-**🤖 ML / DL / LLM Research**
+**ML / DL / LLM Research**
 - Fine-tuning **LLaMA** via **LoRA & QLoRA** — parameter-efficient domain adaptation under tight VRAM constraints
 - Designing **custom SVM kernels** for non-Euclidean and structured feature spaces
 - Writing hand-tuned GPU operators in **OpenAI Triton** — tiling, vectorization, shared memory layout
 
-**🏗️ Systems & Backend**
+**Systems & Backend**
 - High-throughput **Ruby on Rails** APIs with deep ActiveRecord optimization
 - OS internals: process scheduling, memory hierarchy, virtual memory, IPC
 
-**📱 Mobile Engineering**
+**Mobile Engineering**
 - Native **Android** (Java + XML): Lifecycle management, Background Services, real-time sync
 
 </td>
@@ -60,7 +63,7 @@ I'm a **Computer Science & Engineering** student at **IIIT Kalyani**, working at
 
 ---
 
-## 🏆 GitHub Trophies
+##GitHub Trophies
 
 <div align="center">
 
@@ -70,7 +73,7 @@ I'm a **Computer Science & Engineering** student at **IIIT Kalyani**, working at
 
 ---
 
-## 🤖 ML / DL / LLM Stack
+## ML / DL / LLM Stack
 
 <div align="center">
 
@@ -99,7 +102,7 @@ I'm a **Computer Science & Engineering** student at **IIIT Kalyani**, working at
 
 ---
 
-## 🛠️ Full Tech Stack
+## Full Tech Stack
 
 <div align="center">
 
@@ -123,13 +126,13 @@ I'm a **Computer Science & Engineering** student at **IIIT Kalyani**, working at
 
 ---
 
-## 🔬 Research & Project Highlights
+##Research & Project Highlights
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🦙 LLaMA Fine-Tuning — LoRA & QLoRA
+### LLaMA Fine-Tuning — LoRA & QLoRA
 Parameter-efficient fine-tuning of LLaMA using Low-Rank Adaptation, injecting trainable rank-decomposition matrices into frozen weights. QLoRA extends this with 4-bit NF4 quantization via `bitsandbytes`, enabling single-GPU fine-tuning of 7B+ parameter models without significant quality loss.
 
 `LLaMA` `LoRA` `QLoRA` `PEFT` `bitsandbytes` `HuggingFace`
@@ -137,7 +140,7 @@ Parameter-efficient fine-tuning of LLaMA using Low-Rank Adaptation, injecting tr
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Triton GPU Kernel Programming
+###Triton GPU Kernel Programming
 Writing fused GPU kernels directly in OpenAI Triton — bypassing PyTorch dispatch overhead with hand-controlled tile sizes, vectorized loads, shared memory staging, and warp-level reductions. Targets bottleneck ops in attention and linear layers.
 
 `Triton` `Kernel Fusion` `Tiling` `Vectorization` `Shared Memory`
@@ -147,7 +150,7 @@ Writing fused GPU kernels directly in OpenAI Triton — bypassing PyTorch dispat
 <tr>
 <td width="50%" valign="top">
 
-### 📐 Custom SVM Kernels
+### Custom SVM Kernels
 Implementing non-standard positive-definite kernel functions for SVMs to handle structured, graph-based, or string-similarity feature spaces where RBF and polynomial kernels fail to capture domain geometry. Validated with kernel alignment metrics.
 
 `SVM` `Kernel Methods` `RKHS` `ML Theory` `Python` `scikit-learn`
@@ -155,7 +158,7 @@ Implementing non-standard positive-definite kernel functions for SVMs to handle 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Scalable Ruby on Rails APIs
+### Scalable Ruby on Rails APIs
 High-throughput RESTful backends with surgical ActiveRecord optimization — eliminating N+1 queries, query planner analysis, counter caches, and background job offloading. Designed for production-grade scale.
 
 `Ruby on Rails` `ActiveRecord` `REST` `PostgreSQL` `Sidekiq`
@@ -165,7 +168,7 @@ High-throughput RESTful backends with surgical ActiveRecord optimization — eli
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Native Android Engineering
+### Native Android Engineering
 Android applications built with Java & XML, focusing on Activity/Fragment Lifecycle correctness, `WorkManager` & `Service` optimization for background tasks, and robust architecture for real-time data synchronization.
 
 `Java` `Android SDK` `Lifecycle` `WorkManager` `XML`
@@ -173,7 +176,7 @@ Android applications built with Java & XML, focusing on Activity/Fragment Lifecy
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ OS & Systems Programming
+### OS & Systems Programming
 Deep exploration of OS internals — process scheduling algorithms (CFS, EDF), virtual memory and page replacement, inter-process communication, and memory hierarchy exploitation for cache-friendly algorithm design.
 
 `C` `Linux` `Process Scheduling` `Virtual Memory` `IPC`
@@ -184,7 +187,7 @@ Deep exploration of OS internals — process scheduling algorithms (CFS, EDF), v
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -200,19 +203,19 @@ Deep exploration of OS internals — process scheduling algorithms (CFS, EDF), v
 
 ---
 
-## 🎯 Currently
+## Currently
 
 | Status | Focus |
 |:------:|-------|
-| 🔭 | **Exploring** advanced LLM inference — quantization, speculative decoding, KV-cache compression |
-| 🌱 | **Learning** real-time synchronization in Android & advanced concurrency primitives |
-| 🧪 | **Researching** efficient fine-tuning pipelines and custom kernels for structured-data SVMs |
-| ⚡ | **Building** low-level Triton kernels targeting attention mechanism bottlenecks |
-| 🎓 | **Studying** CSE @ IIIT Kalyani |
+**Exploring** advanced LLM inference — quantization, speculative decoding, KV-cache compression |
+**Learning** real-time synchronization in Android & advanced concurrency primitives |
+**Researching** efficient fine-tuning pipelines and custom kernels for structured-data SVMs |
+**Building** low-level Triton kernels targeting attention mechanism bottlenecks |
+**Studying** CSE @ IIIT Kalyani |
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
