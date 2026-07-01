@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d6e,100:0d1117&height=210&section=header&text=Ayush%20Lahiri&fontSize=54&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20CSE%20%40%20IIIT%20Kalyani&descAlignY=60&descSize=17&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0C27,50:054B60,100:0A0C27&height=210&section=header&text=Ayush%20Lahiri&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20CSE%20%40%20IIIT%20Kalyani&descAlignY=60&descSize=17&descColor=a78bfa" width="100%"/>
 
 <div align="center">
 
@@ -225,4 +225,3 @@ Contributed to a drowsiness detection system.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d6e,100:0d1117&height=120&section=footer"/>
