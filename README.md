@@ -190,7 +190,6 @@ Contributed to a drowsiness detection system.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushL2007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 
 <img src="https://streak-stats.demolab.com?user=ayushL2007&theme=tokyonight&hide_border=true"/>
